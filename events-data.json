@@ -1,0 +1,194 @@
+[
+  {
+    "id": "responsive-lab",
+    "cat": "tech",
+    "date": "2026-11-02",
+    "time": "15:00",
+    "end": "17:00",
+    "place": [
+      "عبر الإنترنت",
+      "Online"
+    ],
+    "img": "coding",
+    "title": [
+      "مختبر التصميم المتجاوب",
+      "The responsive design lab"
+    ],
+    "desc": [
+      "واجهة واحدة لكل الشاشات. جلسة تطبيقية نجرب فيها تنسيق صفحة جامعية مرنة.",
+      "One interface, every screen. A practical session on styling a flexible campus page."
+    ],
+    "full": [
+      "نجمع بين هيكل HTML وتنسيقات CSS وشبكة Bootstrap لإنشاء صفحة تتكيف مع الهاتف والحاسوب. نحضر فكرة بسيطة، ونبنيها خطوة بخطوة، ثم نتبادل الملاحظات على النتيجة. يكفي إلمام أولي بعناصر الصفحة.",
+      "Combine HTML structure, CSS styles, and Bootstrap Grid to make a page adapt to mobile and desktop. Bring a simple idea, build it step by step, and exchange feedback. Basic familiarity with page elements is enough."
+    ]
+  },
+  {
+    "id": "book-cafe",
+    "cat": "culture",
+    "date": "2026-11-03",
+    "time": "16:00",
+    "end": "18:00",
+    "place": [
+      "دمشق",
+      "Damascus"
+    ],
+    "img": "reading",
+    "title": [
+      "مقهى الكتاب: صفحات وأفكار",
+      "The book café: pages & ideas"
+    ],
+    "desc": [
+      "اختر صفحة تستحق النقاش، وأحضر فضولك إلى دائرة قراءة هادئة.",
+      "Bring a page worth discussing and your curiosity to a relaxed reading circle."
+    ],
+    "full": [
+      "جلسة مفتوحة لتبادل الأفكار حول الكتب التي نقرأها. يشارك كل حاضر مقطعًا قصيرًا أو سؤالًا أثار اهتمامه، ثم نناقش اختلاف القراءات وما نتعلمه من وجهات النظر الأخرى. المشاركة بالقراءة اختيارية.",
+      "An open session about the books we read. Share a short passage or a question that caught your attention, then explore different interpretations and perspectives. Reading aloud is optional."
+    ]
+  },
+  {
+    "id": "campus-run",
+    "cat": "sport",
+    "date": "2026-11-04",
+    "time": "09:00",
+    "end": "11:00",
+    "place": [
+      "حمص",
+      "Homs"
+    ],
+    "img": "running",
+    "title": [
+      "خطوة بخطوة: صباح الحركة",
+      "One step at a time: morning movement"
+    ],
+    "desc": [
+      "جولة مشي وجري خفيف، بإيقاع يناسب الجميع وروح تشجع التعاون.",
+      "A walking and light jogging session at a welcoming pace, with a focus on encouragement."
+    ],
+    "full": [
+      "نبدأ بإحماء خفيف، ثم ننطلق في جولة مشي مع إمكانية الجري لمن يرغب. الهدف نشاط جماعي مريح والتعارف بين الطلاب. أحضر ملابس مناسبة وزجاجة ماء، واختر الوتيرة التي تناسبك.",
+      "Start with a light warm-up, followed by a walk with optional jogging. The goal is a comfortable group activity and a chance to meet other students. Bring suitable clothes and water, and choose your own pace."
+    ]
+  },
+  {
+    "id": "piano-evening",
+    "cat": "music",
+    "date": "2026-11-05",
+    "time": "18:00",
+    "end": "20:00",
+    "place": [
+      "دمشق",
+      "Damascus"
+    ],
+    "img": "piano",
+    "title": [
+      "مساء على مفاتيح البيانو",
+      "An evening at the piano"
+    ],
+    "desc": [
+      "استراحة موسيقية بين المحاضرات، ومقطوعات يقدمها محبو العزف من الطلاب.",
+      "A musical pause between lectures, with pieces shared by student piano enthusiasts."
+    ],
+    "full": [
+      "أمسية استماع وعزف في أجواء هادئة، يتبادل فيها الطلاب مقطوعاتهم وتجاربهم مع الموسيقى. يمكن الحضور للاستماع فقط أو تقديم فقرة قصيرة ضمن البرنامج التجريبي.",
+      "A relaxed evening of listening and playing, where students share pieces and their experiences with music. Attend as a listener or offer a short performance within the fictional program."
+    ]
+  },
+  {
+    "id": "photo-walk",
+    "cat": "art",
+    "date": "2026-11-06",
+    "time": "12:00",
+    "end": "14:00",
+    "place": [
+      "حلب",
+      "Aleppo"
+    ],
+    "img": "camera",
+    "title": [
+      "حكاية بعدسة: ورشة تصوير",
+      "A story through the lens"
+    ],
+    "desc": [
+      "تعلّم أن تلاحظ الضوء والتفاصيل، واصنع قصة بصرية من مشهد بسيط.",
+      "Notice light and detail, and build a visual story from an ordinary scene."
+    ],
+    "full": [
+      "نلتقي لتجربة زوايا تصوير مختلفة وتبادل أفكار عن التكوين والضوء. يمكنك المشاركة بكاميرا أو هاتف. نراجع الصور في ختام اللقاء، مع احترام خصوصية الأشخاص وطلب الإذن قبل تصويرهم.",
+      "Explore different angles and exchange ideas about composition and light. A phone or camera is welcome. Review the images together at the end, respecting privacy and asking permission before photographing people."
+    ]
+  },
+  {
+    "id": "family-puzzles",
+    "cat": "family",
+    "date": "2026-11-07",
+    "time": "10:00",
+    "end": "12:00",
+    "place": [
+      "حمص",
+      "Homs"
+    ],
+    "img": "games",
+    "title": [
+      "صباح الألغاز والألعاب",
+      "A morning of games & puzzles"
+    ],
+    "desc": [
+      "طاولة تجمع العائلة: ألعاب تفكير وتحديات تعاونية لوقت مشترك ممتع.",
+      "Bring the family to the table for thinking games and collaborative challenges."
+    ],
+    "full": [
+      "لقاء اجتماعي للطلاب وأسرهم يجمع ألعاب الطاولة والألغاز الجماعية. نركز على التعاون والتواصل بدل المنافسة وحدها. يجب حضور الأطفال مع مرافق بالغ، والأنشطة أمثلة توضيحية ضمن المشروع.",
+      "A social gathering for students and their families with board games and group puzzles. The focus is cooperation and conversation. Children must be accompanied by an adult. Activities are illustrative project examples."
+    ]
+  },
+  {
+    "id": "project-showcase",
+    "cat": "tech",
+    "date": "2026-11-12",
+    "time": "14:00",
+    "end": "16:00",
+    "place": [
+      "عبر الإنترنت",
+      "Online"
+    ],
+    "img": "study",
+    "title": [
+      "معرض مشاريع الطلبة",
+      "The student project showcase"
+    ],
+    "desc": [
+      "أفكار صغيرة تأخذ شكلها الأول: عروض قصيرة ومساحة لملاحظات مفيدة.",
+      "Small ideas take their first shape through short presentations and useful feedback."
+    ],
+    "full": [
+      "يعرض الطلاب نماذج أولية لمشاريعهم، ويشرحون الفكرة والمشكلة التي يحاولون حلها. نتبادل اقتراحات عملية للتطوير، مع إتاحة الحضور لمن يود الاستماع والتعرف إلى تجارب زملائه.",
+      "Students present early project ideas and explain the problems they aim to solve. Exchange practical suggestions for improvement, or join as a listener to learn from your peers."
+    ]
+  },
+  {
+    "id": "open-pages",
+    "cat": "culture",
+    "date": "2026-11-14",
+    "time": "17:00",
+    "end": "19:00",
+    "place": [
+      "حلب",
+      "Aleppo"
+    ],
+    "img": "reading",
+    "title": [
+      "من القراءة إلى الحوار",
+      "From reading to conversation"
+    ],
+    "desc": [
+      "لقاء يربط فكرة من كتاب بسؤال من حياتنا الجامعية اليومية.",
+      "Connect an idea from a book to a question from everyday student life."
+    ],
+    "full": [
+      "نختار أفكارًا من قراءاتنا ونسأل كيف تتصل بتجربتنا الجامعية. لا يلزم كتاب محدد أو تحضير مسبق؛ يكفي الاستعداد للاستماع واحترام اختلاف الآراء.",
+      "Choose ideas from your reading and consider how they connect with campus life. No set book or advance preparation is needed; bring a willingness to listen and respect different opinions."
+    ]
+  }
+]
